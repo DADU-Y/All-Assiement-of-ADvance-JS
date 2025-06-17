@@ -1,0 +1,18 @@
+    body {
+      background-color: #f8f9fa;
+    }
+
+    .search-section {
+      margin-top: 50px;
+      margin-bottom: 30px;
+      text-align: center;
+    }
+
+    .search-box {
+      max-width: 500px;
+      margin: 0 auto;
+    }
+
+    #showData {
+      justify-content: center;
+    }
